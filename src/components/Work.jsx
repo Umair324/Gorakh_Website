@@ -30,11 +30,11 @@ const Work = () => {
              AIME DEMO WEBSITE
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://github.com/Umair324">
+                        <a href="https://aaime.netlify.app/" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
                         
-                        <a href="https://github.com/Umair324">
+                        <a href="https://github.com/Umair324" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -54,11 +54,11 @@ const Work = () => {
              DECENTRALISED TRADING PROTCOL
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://github.com/Umair324">
+                        <a href="https://github.com/Umair324/Personal_site" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
                         
-                        <a href="https://github.com/Umair324">
+                        <a href="https://github.com/Umair324/Personal_site" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -78,11 +78,11 @@ const Work = () => {
              UPCOMING MOVIES NETFLIX 
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://github.com/Umair324">
+                        <a href="https://github.com/Umair324/Netflex_Site" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
                         
-                        <a href="https://github.com/Umair324">
+                        <a href="https://github.com/Umair324/Netflex_Site" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -102,11 +102,11 @@ const Work = () => {
              THE MUREE OF SINDH GORAKH
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://github.com/Umair324">
+                        <a href="https://github.com/Umair324/Gorakh_Website" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
                         
-                        <a href="https://github.com/Umair324">
+                        <a href="https://github.com/Umair324/Gorakh_Website" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -126,11 +126,11 @@ const Work = () => {
              NETFLIX MOVIE WEBSITE
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://github.com/Umair324">
+                        <a href="https://github.com/Umair324/Netflex_Site/tree/main/my-netflex" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
                         
-                        <a href="https://github.com/Umair324">
+                        <a href="https://github.com/Umair324/Netflex_Site/tree/main/my-netflex" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -150,11 +150,11 @@ const Work = () => {
              MY POTFOLIO WEBSITE REACT.JS
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://github.com/Umair324/Gorakhhillstation">
+                        <a href="https://github.com/Umair324/My_Portfolio" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
                         
-                        <a href="https://github.com/Umair324/Gorakhhillstation">
+                        <a href="https://github.com/Umair324/My_Portfolio" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
